@@ -1,7 +1,7 @@
 {
 	"name": "WordPress",
 
-	"dockerComposeFile": "docker-kkkkkk.yml",
+	"dockerComposeFile": "docker-compose.yml",
 	"service": "wordpress",
 
 	// Uncomment the appropriate line depending on plugin vs theme development.
